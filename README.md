@@ -1,9 +1,9 @@
 <div align="center">
     <img width="64" alt="Open Executor Softworks logo" src="./src/assets/dark-icon.jpg">
-    <h1>Open Executor</h1>
+    <h1>Zacacutor</h1>
 </div>
 
-<h3 align="center">Free, simple, Roblox executor (Open-Source UI).</h3>
+<h3 align="center">Free, simple, Roblox executor.</h3>
 
 <div align="center" style="margin-bottom:12px;">
     <a href="https://open-executor-web.vercel.app/" style="display: flex; align-items: center;">
@@ -36,7 +36,7 @@ Robtop James
 
 <div align="center">
 
-### 🎈 **Open-Source executor is a Roblox executor with many features.**
+### 🎈 **Zacacutor is a Roblox executor with many features.**
 
 </div>
 
@@ -46,21 +46,4 @@ Robtop James
 
 ### **🥇Firstly, download the latest version in the release tab!
 
-### Downloading
-
-```bash
-# To run the Open-Exexutor, please download the latest version and run the Bootstrapper. If its automatically closing; delete version.txt.
-```
-
-### Using
-
-```bash
-# The use can be very wide, you can use it to kickstart your own executor, implement your own api. Or even learn from the code to improve your own Executor!
-```
-
-### Thanks for using
-
-```bash
-# Thanks for using, please join the discord and support us!
-```
-
+TODO: Finish
