@@ -9,7 +9,7 @@
     <a href="https://open-executor-web.vercel.app/" style="display: flex; align-items: center;">
         <img src="https://img.shields.io/badge/Start%20building-grey" alt="OpenSource"/>
     </a>
-    <a href="https://discord.gg/gCWBfGRRNZ" style="display: flex; align-items: center;">
+    <a href="https://discord.gg/8MtFK7bTYD" style="display: flex; align-items: center;">
         <img src="https://img.shields.io/discord/1196658537208758412.svg?label=Join%20the%20Discord&logo=discord" alt="Discord"/>
     </a>
     <a href="https://x.com" style="display: flex; align-items: center;">
@@ -22,7 +22,6 @@
 
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="demo" src="./src/assets/image.PNG"></h3>
 
-Robtop James
 ---------------------------------------------------------------------------------------------------
 <div align="center">
 
